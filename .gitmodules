@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "semPower"]
 	path = semPower
 	url = https://github.com/moshagen/sempower
-	shallow = true
-	registered = true
